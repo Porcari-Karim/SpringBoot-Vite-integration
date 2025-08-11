@@ -1,4 +1,4 @@
-A Spring boot template with react and Vite
+A Spring boot template with React and Vite
 
 Allows vite integration directly with the spring application.
 
