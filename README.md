@@ -6,7 +6,7 @@ As long as the "environment.type" is set to "development" inside your applicatio
 of your Vite development server, your spring app will serve your Vite app from any url that doesn't match "/api" (it supports
 HMR).
 You still need to start your vite server manually.
-The properties names and their wanted value can be customized and is only used in one place the ClientController class.
+The propertie name and the wanted value can be customized and are only used in one place the ClientController class.
 
 For deployment you just need to change the "environment.type" to anything else than "development" (or the wanted value 
 if you changed it)
